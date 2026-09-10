@@ -1,4 +1,4 @@
-[Uploading README.md…]()
+
 # Everaldo Arruda
 
 ## Sobre Mim

@@ -5,9 +5,7 @@
 Olá, meu nome é Everaldo Arruda. Fiz a transição de carreira da administração de empresas para o desenvolvimento de software e hoje atuo como **Full Stack Developer**, trabalhando com C#/.NET e Vue.js em aplicações corporativas. Minha experiência anterior como gestor de negócio e supervisor de produção me dá uma visão de processo e de resultado que carrego para o código: gosto de entender não só *como* implementar uma solução, mas *por que* ela importa para quem vai usar.
 
 ## Destaques Recentes
-- 📈 Maior autor de merge requests do meu time desde julho de 2026 (34% do total), com taxa de merge evoluindo de 35% para 76%
-- ✅ 47 demandas entregues em ~5 meses, 83% concluídas em produção/homologação
-- 🔍 Análises técnicas de causa raiz documentadas em 54 cards, viabilizando a correção de 13 bugs de QA
+
 
 ## Habilidades
 Tecnologias que uso no dia a dia e que venho aprofundando:

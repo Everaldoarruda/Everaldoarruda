@@ -10,8 +10,7 @@ Fiz a transição de carreira da área administrativa para o desenvolvimento de 
 Minha experiência anterior como gestor de negócio e supervisor de produção me deu uma visão de processo e de resultado que levo para o código: gosto de entender não só *como* implementar uma solução, mas *por que* ela importa para quem vai usar.
 
 ## Destaques
-- 📦 **[Estoque](LINK-DO-REPOSITORIO)**: [uma linha sobre o projeto, ex.: sistema de controle de estoque para distribuidora, feito com C#, SQL e Vue.js]
-- ⚽ **[Passe-Liga](LINK-DO-REPOSITORIO)**: [uma linha sobre o projeto, ex.: estudo de caso fullstack desenvolvido para o processo seletivo do SENAI/PE]
+- ⚽ **[Passe-Liga](https://github.com/Everaldoarruda/passe-liga)**: [uma linha sobre o projeto, ex.: estudo de caso fullstack desenvolvido para o processo seletivo do SENAI/PE]
 
 ## Tecnologias
 
